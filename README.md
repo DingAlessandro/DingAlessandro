@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:DingAlessandro?theme=rule34">
 
 ## PRINCE QIU:
  <img align="left" alt="GIF" src="./images/c2.gif" width="1200" height="100%" />
