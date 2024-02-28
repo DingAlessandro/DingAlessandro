@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-<!--
-**DingAlessandro/DingAlessandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## PRINCE QIU:
+ <img align="left" alt="GIF" src="./images/c2.gif" width="1200" height="100%" />
+### Github 活跃度
 
-Here are some ideas to get you started:
+[![](https://activity-graph.herokuapp.com/graph?username=DingAlessandro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![DingAlessandro's github stats](https://github-readme-stats.vercel.app/api?username=DingAlessandro&show_icons=true&theme=vue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&layout=compact&langs_count=6)
+
+<a href="https://b23.tv/wx7e1oc"><img align="right" alt="GIF" src="./images/c1.gif" width="120" height="100%" />
