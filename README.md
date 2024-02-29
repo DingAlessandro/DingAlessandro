@@ -10,4 +10,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&layout=compact&langs_count=6)
 
-<a href="https://b23.tv/wx7e1oc"><img align="right" alt="GIF" src="./images/c1.gif" width="120" height="100%" />
+<a href="https://b23.tv/wx7e1oc"><img align="right" alt="GIF" src="./images/c1.gif" width="60" height="100%" />
