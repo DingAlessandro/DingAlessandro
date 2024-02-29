@@ -5,7 +5,7 @@
 
 ### Github 活跃度
 
-![DingAlessandro's github stats](https://github-readme-stats.vercel.app/api?username=DingAlessandro&show_icons=true&theme=tokyonight)
+![DingAlessandro's github stats](https://github-readme-stats.vercel.app/api?username=DingAlessandro&show_icons=true&theme=swift)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&langs_count=10)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&layout=compact&langs_count=10)
