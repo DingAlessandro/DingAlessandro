@@ -5,7 +5,6 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=DingAlessandro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![DingAlessandro's github stats](https://github-readme-stats.vercel.app/api?username=DingAlessandro&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&langs_count=6)
