@@ -5,9 +5,9 @@
 
 ### Github 活跃度
 
-![DingAlessandro's github stats](https://github-readme-stats.vercel.app/api?username=DingAlessandro&show_icons=true&theme=vue)
+![DingAlessandro's github stats](https://github-readme-stats.vercel.app/api?username=DingAlessandro&show_icons=true&theme=TokyoNight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&layout=compact&langs_count=10)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" alt="GIF" src="./images/c1.gif" width="100" height="100%" />
