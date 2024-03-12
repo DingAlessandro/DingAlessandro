@@ -11,3 +11,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&layout=compact&langs_count=10)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" alt="GIF" src="./images/c1.gif" width="100" height="100%" />
+<a href="https://www.youtube.com/watch?v=FDxSTRCMx1o"><img align="right" alt="GIF" src="./images/Dragon.gif" width="100" height="100%" />
