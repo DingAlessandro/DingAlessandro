@@ -1,4 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:DingAlessandro?theme=rule34">
+> <div align="center"> <img src="https://v2.jinrishici.com/one.svg" width="100" height="100%"/> </div>
 
 ## PRINCE QIU:
  <img align="left" alt="GIF" src="./images/c2.gif" width="1200" height="100%" />
