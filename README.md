@@ -1,5 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:DingAlessandro?theme=rule34">
-> <div align="center"> <img src="https://v2.jinrishici.com/one.svg" /> </div>
+[![pic](http://api.btstu.cn/sjbz/?lx=dongman)](https://github.com/DingAlessandro/)
 
 
 ## PRINCE QIU:
