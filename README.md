@@ -9,6 +9,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&langs_count=10)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DingAlessandro&layout=compact&langs_count=10)
-[![Motto](https://readme-typing-svg.herokuapp.com/?lines=今天你玩原神了吗\(bushi&center=true&size=27)](https://github.com/DingAlessadro/)
+[![Motto](https://readme-typing-svg.herokuapp.com/?lines=今天你玩原神了吗\(center=true&size=50)](https://github.com/DingAlessadro/)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" alt="GIF" src="./images/c1.gif" width="100" height="100%" />
 <a href="https://www.youtube.com/watch?v=FDxSTRCMx1o"><img align="left" alt="GIF" src="./images/Dragon.gif" width="100" height="100%" />
