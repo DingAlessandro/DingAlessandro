@@ -1,6 +1,4 @@
 <img align="right" src="https://count.getloli.com/get/@:DingAlessandro?theme=rule34">
-[![pic](http://api.btstu.cn/sjbz/?lx=dongman)](https://github.com/DingAlessandro/)
-
 
 ## PRINCE QIU:
  <img align="left" alt="GIF" src="./images/c2.gif" width="1200" height="100%" />
