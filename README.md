@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:DingAlessandro?theme=rule34&theme=random&darkmode=0">
+<img align="right" src="https://count.getloli.com/get/@:DingAlessandro?theme=random&darkmode=0">
 
 ### Github 活跃度 ´༥`
 
